@@ -1,0 +1,6 @@
+@ImuBackend_HostAddress = http://localhost:5180
+
+GET {{ImuBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
